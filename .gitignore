@@ -2,8 +2,6 @@ node_modules
 package-lock.json
 config/database/test.json
 coverage
-.env
-.eslintrc.json
 syarat.docx
 notes.txt
 Proyek_2.zip
